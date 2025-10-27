@@ -17,12 +17,6 @@
 ## 🧑‍💻 About Me
 I am a high school student passionate about programming.
 
-## 🚀 Projects I'm Working On
-- A Flutter app
-
-## 📘 My GitHub Projects
-- **Minecraft Plugin** - A plugin that provides death coordinates and transfers loot into a chest
-
 [🔗 All My Repositories](https://github.com/tuo-username)
 
 ## 📫 Contact Me
